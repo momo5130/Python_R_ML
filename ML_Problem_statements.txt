@@ -1,0 +1,24 @@
+Question 3->  Define problem category for below problem statement
+ “A chemist wants to find some interesting patterns in which patients are behaving upon administering the drug”
+
+Answer->
+Upon administering the drug, a chemist wants to find out the interesting pattern of the patients. In order to discover that, we will be looking at some hidden structure in data. Without using explicitly-provided labels, we want to learn inherent structure of our data.
+This can be done using the unsupervised learning category. In unsupervised learning the data in unlabelled, this unlabelled data is transformed into groups of clusters, where each cluster will consist data for persons who are having same characteristics. Thus, we will have the pattern in which patients are behaving. Problem category is Unsupervised learning.
+
+Question 4-> How will you select suitable machine learning algorithm for a problem statement
+
+Answer->
+ 1-> When we meet the client, we design a problem statement after understanding thier business and what clients want.
+ 2-> Based on what the client wants us to do either forecast result or help in a decision-making strategy or to distribute his assets in most profitable manner or he wants us to infer the hidden structure in the data, we start categorizing the problem statement.
+ 3->We categorize the problem statement into 4:
+    a) Predictive/Forecasting: Whether we want to forecast something such as   future stock price, tomorrow’s weather, etc.
+    b) Classification: example; we want to classify certain customers whether they will buy or not certain commodity.
+    c) Optimization: example; we want to optimize the revenue of the client such as where should he invest his money in.
+    d) Unsupervised learning: The most common tasks within unsupervised learning are clustering, representation learning, and density estimation. In all of these cases, we wish to learn the inherent structure of our data without using explicitly-provided labels.
+ 4->Then according to the problem category, we select the best suitable machine learning algorithm.
+    
+Question 5-> Define one problem statement for Education industry?
+
+Answer->
+The school authorities wants to predict how many students will pass the 10th board exams based on thier class assessments, pre-board exams, projects, lab assessments and extra-curriculum activities.
+This is a Predictive/Forecasting problem Statement in which chances of the number(quantitative) of students will be passed and promoted to next class are predicted by the ML algorithm.
